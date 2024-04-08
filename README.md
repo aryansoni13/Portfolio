@@ -1,6 +1,6 @@
 # Welcome to My Interactive Portfolio!
 <p> Hey there! 👋 Thanks for stopping by. This repository serves as a gateway to my coding adventures and projects. Explore the diverse projects and feel free to dive into the code. I'm always up for collaboration and feedback! </p>
-<h2> 📂 Project Showcase</h2>
+<h2> 📂 Projects Showcase</h2>
 <h3>🌱 CropVigil </h3>
 <p>An intelligent potato leaf disease detection system. Curious about the tech behind it? Dive in and let's explore together!</p>
 
