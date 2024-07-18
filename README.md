@@ -14,7 +14,7 @@
 
 <p> 📧 Email: <a href="mailto:aryansoni26827@gmail.com" class="contact-link">aryansoni26827@gmail.com</a> </p>
 <p>📱 LinkedIn: <a href="https://www.linkedin.com/in/aryan-soni-26794924a/" target="_blank">Aryan Soni </p>
-<p>🐦 Instagram: <a href="https://www.instagram.com/aryan_269269/" target="_blank">Aryan Soni</p>
+<p>🐦 Instagram: <a href="https://www.instagram.com/aryan_soni269269/" target="_blank">Aryan Soni</p>
 
 <h2> 🤝 Contributions </h2>
 <p> Excited to contribute or have ideas to share? Awesome! Open an issue or submit a pull request - let's make something great together.</p>
